@@ -1,7 +1,7 @@
 This is Prince! <br>
 Student at IITD'24 <br>
 Smart Contract Dev!<br>
-wanna be a Security researcher 🫡 
+Starting out as an Auditor 🫡 
 
 <!--
 **0xprinc/0xprinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
