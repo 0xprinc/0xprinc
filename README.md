@@ -1,5 +1,4 @@
-This is Prince! <br>
-Student at IITD'24 <br>
+Student at IIT, Delhi <br>
 Smart Contract Dev!<br>
 Part-time Auditing 🫡 
 
