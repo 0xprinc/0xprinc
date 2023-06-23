@@ -1,5 +1,4 @@
-Student at IIT, Delhi <br>
-Smart Contract Dev!<br>
-Part-time Auditing 🫡 
-
-so many in-progress repos 😝
+Senior @IITD <br>
+Smart Contract Security 🫡
+Smart Contract Dev..
+so many in-progress repos .....
